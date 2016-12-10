@@ -27,7 +27,7 @@ def get_multiply_cell_value(field, row_index, column_index, matrix_1, matrix_2):
     return cell_value
 
 
-def multiply_matrix(field, matrix_1, matrix_2, modulo=1):
+def multiply_matrix(field, matrix_1, matrix_2):
     """
     :type field: field.Field
     :type matrix_1: matrix.Matrix
