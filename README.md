@@ -19,7 +19,7 @@ field = real_field.RealField(modulo=7)
 
 ##### Multiply Matrices
 ```
-matrix_operations.multiply_matrix(field, matrix_1, matrix_2, m)
+matrix_operations.multiply_matrix(field, matrix_1, matrix_2)
 ```
 
 ##### Get Determinant
